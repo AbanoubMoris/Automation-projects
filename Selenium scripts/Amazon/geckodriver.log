@@ -1,0 +1,14 @@
+geckodriver.exe: error: Found argument '--webdriver-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe --binary <BINARY>
+
+For more information try --help
+
+geckodriver.exe: error: Found argument '--webdriver-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe --binary <BINARY>
+
+For more information try --help
+
