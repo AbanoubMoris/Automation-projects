@@ -1,0 +1,10 @@
+C:\Users\abano\Desktop\New folder (2)\Reservation\bin\Release\Reservation.exe.config
+C:\Users\abano\Desktop\New folder (2)\Reservation\bin\Release\Reservation.exe
+C:\Users\abano\Desktop\New folder (2)\Reservation\bin\Release\Reservation.pdb
+C:\Users\abano\Desktop\New folder (2)\Reservation\obj\Release\Reservation.Form1.resources
+C:\Users\abano\Desktop\New folder (2)\Reservation\obj\Release\Reservation.Properties.Resources.resources
+C:\Users\abano\Desktop\New folder (2)\Reservation\obj\Release\Reservation.csproj.GenerateResource.cache
+C:\Users\abano\Desktop\New folder (2)\Reservation\obj\Release\Reservation.csproj.CoreCompileInputs.cache
+C:\Users\abano\Desktop\New folder (2)\Reservation\obj\Release\Reservation.exe
+C:\Users\abano\Desktop\New folder (2)\Reservation\obj\Release\Reservation.pdb
+C:\Users\abano\Desktop\New folder (2)\Reservation\obj\Release\Reservation.csprojAssemblyReference.cache
