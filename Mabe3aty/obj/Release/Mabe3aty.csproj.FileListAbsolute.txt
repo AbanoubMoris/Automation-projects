@@ -1,0 +1,17 @@
+D:\Mabe3aty\bin\Release\salesDB.mdf
+D:\Mabe3aty\bin\Release\salesDB_log.ldf
+D:\Mabe3aty\bin\Release\Mabe3aty.exe.config
+D:\Mabe3aty\bin\Release\Mabe3aty.exe.manifest
+D:\Mabe3aty\bin\Release\Mabe3aty.application
+D:\Mabe3aty\bin\Release\Mabe3aty.exe
+D:\Mabe3aty\bin\Release\Mabe3aty.pdb
+D:\Mabe3aty\obj\Release\Mabe3aty.MainPage.resources
+D:\Mabe3aty\obj\Release\Mabe3aty.Admin.ProductsForm.resources
+D:\Mabe3aty\obj\Release\Mabe3aty.Admin.ReportsForm.resources
+D:\Mabe3aty\obj\Release\Mabe3aty.Properties.Resources.resources
+D:\Mabe3aty\obj\Release\Mabe3aty.csproj.GenerateResource.cache
+D:\Mabe3aty\obj\Release\Mabe3aty.csproj.CoreCompileInputs.cache
+D:\Mabe3aty\obj\Release\Mabe3aty.exe.manifest
+D:\Mabe3aty\obj\Release\Mabe3aty.application
+D:\Mabe3aty\obj\Release\Mabe3aty.exe
+D:\Mabe3aty\obj\Release\Mabe3aty.pdb
