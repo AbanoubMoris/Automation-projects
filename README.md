@@ -1,2 +1,2 @@
 # My-private-Projects
-This repo is containing my private freelancing projects
+This repo is containing my freelancing projects
